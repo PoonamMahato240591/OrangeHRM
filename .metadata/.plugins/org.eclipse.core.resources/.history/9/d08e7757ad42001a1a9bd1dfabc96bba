@@ -1,0 +1,5 @@
+Feature:OrangeHRM Application Login Test
+Scenario: Validating OrangeHRM Application Login Functionality
+Given Open chrome Browser and navigate to OrangeHRM Application
+When User enters UserName and password and click on login button
+Then User should be able to successfully login to the application and close the application

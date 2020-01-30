@@ -1,0 +1,13 @@
+<suite name="OrangeHRM Functionality">
+<test name="AddEmployee">
+<classes>
+<class name="com.OrangeHRMFunctionality.OrangeHRM_AddEmployee"/>
+</classes>
+</test>
+
+<test name="export_EmployeeId">
+<classes>
+<class name="com.OrangeHRMFunctionality.OrangeHRM_AddEmployee"/>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHRM Functionality]">
+  <test name="AddEmployee(failed)">
+    <classes>
+      <class name="com.OrangeHRMFunctionality.OrangeHRM_AddEmployee">
+        <methods>
+          <include name="export_EmployeeId"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.OrangeHRMFunctionality.OrangeHRM_AddEmployee -->
+    </classes>
+  </test> <!-- AddEmployee(failed) -->
+</suite> <!-- Failed suite [OrangeHRM Functionality] -->
